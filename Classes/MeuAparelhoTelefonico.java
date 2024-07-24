@@ -1,3 +1,5 @@
+package Classes;
+
 public class MeuAparelhoTelefonico implements AparelhoTelefonico {
     @Override
     public void ligar(String numero) {

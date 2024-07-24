@@ -1,3 +1,5 @@
+package Interfaces;
+
 public interface ReprodutorMusical {
     void tocar();
 
